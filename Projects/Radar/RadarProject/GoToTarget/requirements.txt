@@ -1,0 +1,6 @@
+pyserial>=3.5
+numpy>=1.24
+matplotlib>=3.7
+PyQt5>=5.15
+mavsdk>=1.4
+scipy>=1.11
