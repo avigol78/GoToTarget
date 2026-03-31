@@ -1,2 +1,0 @@
-playwright>=1.44
-matplotlib>=3.7
